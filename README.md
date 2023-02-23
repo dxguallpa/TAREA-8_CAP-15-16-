@@ -401,6 +401,8 @@ Diagrama fasorial:
 
 # VIDEO
 
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/Ed2M-vBLINRImrkFYWsbyVQBHrhhzrVpaS1xMFH5q6UBLA?e=HIQVn9
+
 # CONCLUSIONES
 
 - En un circuito RC la relación entre las corrientes y los voltajes se da cuando: la corriente que pasa por medio de un resistor esta en fase con el voltaje, por otro lado, cuando la corriente pasa por un capacitor aparece adelantada en 90 grados con respecto al voltaje.
